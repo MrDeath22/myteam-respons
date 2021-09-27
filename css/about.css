@@ -1,6 +1,7 @@
 body {
    font-family: 'Livvic', sans-serif;
    color: #fff;
+   overflow-x: hidden;
 }
 
 #header {
